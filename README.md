@@ -113,19 +113,6 @@ Ingeniero de Software Senior con **más de 10 años de experiencia** entregando 
 
 ---
 
-## 📊 GitHub en números
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bcapetillo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estadísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcapetillo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes" />
-
-<img src="https://streak-stats.demolab.com/?user=bcapetillo&theme=tokyonight&hide_border=true&background=0d1117" alt="Racha" />
-
-</div>
-
----
-
 ## 🎓 Formación y certificaciones
 
 - **Ingeniería en Sistemas Computacionales** — Instituto Tecnológico Superior de Macuspana (2011 – 2015)
